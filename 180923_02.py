@@ -15,10 +15,10 @@ class restuarant:
             }
     
     #logic part where we calculate qty * item
-    def findCost(self):
-        total=0
-        total = self.qty * self.menu[self.item]
-        print(self.item, self.qty, total)
+def findCost(self):
+    total=0
+    total = self.qty * self.menu[self.item]
+    print(self.item, self.qty, total)
 
 order =  restuarant("rice",4)
 order.findCost()
