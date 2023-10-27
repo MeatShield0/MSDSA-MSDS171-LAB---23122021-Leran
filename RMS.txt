@@ -1,0 +1,18 @@
+
+
+
+Customer Name: LERAN
+Customer Phone Number: 1234567890
+Dish Ordered: SADYA
+Quantity: 1
+Price of the Dish: 1
+Grand Total: 1
+Total Bill: 1
+
+Customer Name: ler
+Customer Phone Number: 1234
+Dish Ordered: rice
+Quantity: 1
+Price of the Dish: 80
+Grand Total: 80
+Total Bill: 80
